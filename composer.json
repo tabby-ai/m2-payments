@@ -1,10 +1,10 @@
 {
     "name": "tabby/m2-module",
     "description": "Tabby Extension for Magento 2",
-    "version": "1.0.2-alpha",
+    "version": "1.0.2",
     "type": "metapackage",
     "require": {
-        "tabby/m2-payments": "*@alpha",
-        "tabby/m2-feed": "*@alpha"
+        "tabby/m2-payments": "*",
+        "tabby/m2-feed": "*"
     }
 }
