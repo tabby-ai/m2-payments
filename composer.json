@@ -1,10 +1,14 @@
 {
     "name": "tabby/m2-module",
     "description": "Tabby Extension for Magento 2",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "type": "metapackage",
     "require": {
-        "tabby/m2-payments": "*",
-        "tabby/m2-feed": "*"
-    }
+        "tabby/m2-payments": ">=5.0.10",
+        "tabby/m2-feed": ">=1.0.2"
+    },
+    "license": [
+        "OSL-3.0",
+        "AFL-3.0"
+    ]
 }
