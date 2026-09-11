@@ -7,8 +7,5 @@
         "tabby/m2-checkout": ">=6.4.0",
         "tabby/m2-feed": ">=1.0.2"
     },
-    "license": [
-        "OSL-3.0",
-        "AFL-3.0"
-    ]
+    "license": "MIT"
 }
